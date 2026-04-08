@@ -2,6 +2,7 @@
 
 Financial due diligence style analysis of Indian equities using Python, SQL, Excel, and Power BI.
 
+![Dashboard](dashboard.png)
 ---
 
 ## Overview
